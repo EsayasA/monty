@@ -60,4 +60,5 @@ void que_fun(stack_t **hd, unsigned int count);
 void que_add(stack_t **hd, int number);
 void pa_ll(stack_t **hd, unsigned int count);
 void display(stack_t **hd, unsigned int count);
+void re_move(stack_t **hd, unsigned int c);
 #endif
