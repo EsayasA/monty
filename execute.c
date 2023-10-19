@@ -13,6 +13,7 @@ int execute(char *content, stack_t **st, unsigned int c, FILE *fl)
 				{"push", push_to},
 				{"queue", que_fun},
 				{"pall", pa_ll},
+				{"pint", display},
 				{NULL, NULL}
 				};
 	unsigned int k = 0;
