@@ -62,4 +62,5 @@ void pa_ll(stack_t **hd, unsigned int count);
 void display(stack_t **hd, unsigned int count);
 void re_move(stack_t **hd, unsigned int c);
 void _swap(stack_t **hd, unsigned int count);
+void _sum(stack_t **hd, unsigned int count);
 #endif
